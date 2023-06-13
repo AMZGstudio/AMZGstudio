@@ -1,2 +1,2 @@
-Hi, im AMZG, a programmer.
-i like automating everything!
+Hi, I'm AMZG, a programmer.
+I like automating everything!
